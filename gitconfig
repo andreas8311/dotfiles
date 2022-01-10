@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Andreas8311@hotmail.com
+	name = Andreas Jakobsson
